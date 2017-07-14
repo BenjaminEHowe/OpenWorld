@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenWorld</string>
+
+    <!-- elements used on the "home" screen -->
+    <string name="home_play">Play</string>
+    <string name="home_world_seed">World Seed</string>
+
+    <!-- elements used on the "game" screen -->
+    <string name="fps">%1$s fps</string>
+    <string name="score">Score: %1$s</string>
+    <string name="health">Health: %1$s%%</string>
+
+    <!-- other elements inherited from base code -->
+    <string name="action_settings">Settings</string>
+    <string name="mode_ready">Ready</string>
+    <string name="mode_pause">Pause</string>
+    <string name="mode_lose">Lose</string>
+    <string name="mode_win">Win</string>
+    <string name="message_stopped">Stopped</string>
+</resources>
